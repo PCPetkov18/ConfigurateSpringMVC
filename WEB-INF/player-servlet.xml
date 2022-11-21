@@ -1,4 +1,0 @@
-<init-param>
-    <param-name>contextConfigLocation</param-name>
-    <servlet-calss>org.springframework.web.servlet.DispatcherServlet</servlet-calss>
-</init-param>
